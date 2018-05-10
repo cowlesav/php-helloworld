@@ -1,6 +1,6 @@
 <?php
 
 $hostname = gethostname();
-echo "Hello World, from $hostname! \r\n";
+echo "Hello World, from $hostname";
 
 ?>
