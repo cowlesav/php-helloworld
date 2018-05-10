@@ -1,6 +1,6 @@
 <?php
 
-$hostname=.gethostname()
+$hostname = .gethostname()
 echo "Hello World, from $variable!!! \r\n"
 
 ?>
